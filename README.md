@@ -8,7 +8,8 @@ I'm a Software Engineering student currently in my 5th semester, focused on buil
 
 I'm currently focused on strengthening my skills in backend and frontend development while exploring Artificial Intelligence.
 
-- Backend development with Java  
+- Backend development with Java and SpringBoot
+- SQL databases (MySQL) and NoSQL database (MongoDB)
 - Frontend development using React and Tailwind  
 - Software testing with Java  
 - AI development, including agent creation, workflow automation with n8n, and prompt engineering  
