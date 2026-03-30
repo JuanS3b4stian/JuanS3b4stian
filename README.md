@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey, I'm Juan Sebastián! 
 
-<!--
-**JuanS3b4stian/JuanS3b4stian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a Software Engineering student currently in my 5th semester, focused on building solid foundations in both frontend and backend development, supported by AI tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus & Growth
+
+I'm currently focused on strengthening my skills in backend and frontend development while exploring Artificial Intelligence.
+
+- Backend development with Java  
+- Frontend development using React and Tailwind  
+- Software testing with Java  
+- AI development, including agent creation, workflow automation with n8n, and prompt engineering  
+
+## Social Media
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/juan_s3bastianmb)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-sebastian-munera)
+[![Correo](https://img.shields.io/badge/Outlook-%230078D4.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:juan.munera35@correo.tdea.edu.co)
