@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a Software Engineering student currently in my 5th semester, focused on building solid foundations in both frontend and backend development, supported by AI tools.
+I'm a Software Engineering student currently in my 6th semester, focused on building solid foundations in both frontend and backend development, supported by AI tools.
 
 ## Focus & Growth
 
